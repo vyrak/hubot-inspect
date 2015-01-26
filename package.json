@@ -1,0 +1,19 @@
+{
+  "name": "hubot-inspect",
+  "version": "0.1.0",
+  "description": "Inspect Bitbucket repos & Cloud66 stacks",
+  "author": "vyrak.bunleang@gmail.com",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vyrak/hubot-inspect.git"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
